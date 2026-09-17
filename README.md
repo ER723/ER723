@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Anggasukmana Adisastra 👋
 
-<!--
-**ER723/ER723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building toward a Tier 1 SOC Analyst role — hands-on with detection engineering, log analysis, and home-lab security infrastructure.
 
-Here are some ideas to get you started:
+**What I'm working on:**
+- 🔍 [recon-detector](https://github.com/ER723/recon-detector) — network reconnaissance/scan detection tool
+- 🛡️ [soc-log-analyser](https://github.com/ER723/soc-log-analyser) — parses auth.log + OSSEC alerts for Tier 1 triage
+- ⚙️ [detection-as-code](https://github.com/ER723/detection-as-code) — detection rules and logic managed as version-controlled code
+- 🔁 [soc-pipeline](https://github.com/ER723/soc-pipeline) — SOC workflow/pipeline tooling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Lab setup:** OSSEC HIDS running on Kali Linux (VirtualBox, 8GB RAM), ingesting alerts from my own detection tooling for end-to-end practice — from log generation to triage.
+
+📫 Open to Tier 1 SOC / security analyst opportunities.
