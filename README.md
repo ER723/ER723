@@ -10,4 +10,4 @@ Building toward a Tier 1 SOC Analyst internship role — hands-on with detection
 
 **Lab setup:** OSSEC HIDS running on Kali Linux (VirtualBox, 8GB RAM), ingesting alerts from my own detection tooling for end-to-end practice — from log generation to triage.
 
-📫 Open to Tier 1 SOC / security analyst opportunities.
+📫 Open to Tier 1 SOC / security analyst internship opportunities.
