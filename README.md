@@ -1,6 +1,6 @@
 ### Hi, I'm Anggasukmana Adisastra 👋
 
-Building toward a Tier 1 SOC Analyst internship role — hands-on with detection engineering, log analysis, and home-lab security infrastructure.
+Building toward a Tier 1 SOC Analyst role — hands-on with detection engineering, log analysis, and home-lab security infrastructure.
 
 **What I'm working on:**
 - 🔍 [recon-detector](https://github.com/ER723/recon-detector) — network reconnaissance/scan detection tool
@@ -10,4 +10,4 @@ Building toward a Tier 1 SOC Analyst internship role — hands-on with detection
 
 **Lab setup:** OSSEC HIDS running on Kali Linux (VirtualBox, 8GB RAM), ingesting alerts from my own detection tooling for end-to-end practice — from log generation to triage.
 
-📫 Open to Tier 1 SOC / security analyst internship opportunities.
+📫 Open to Tier 1 SOC / security analyst opportunities.
